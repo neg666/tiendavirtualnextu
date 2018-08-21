@@ -1,8 +1,6 @@
 https://github.com/neg666/tiendavirtualnextu.git 
 
-para la tienda angular
-demo@demo.com
-12345
+
 
 para la tienda react
 demo@demo.com
